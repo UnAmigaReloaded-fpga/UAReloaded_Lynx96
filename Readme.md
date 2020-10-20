@@ -1,10 +1,10 @@
-# Camputers Lynx MiSTer FPGA Core
+# Camputers Lynx UnAmiga Reloaded FPGA Core
 
 
 
 ## General description
 
-This is the first attempt to have a Lynx48 running on Mister FPGA. it was
+This is the first attempt to have a Lynx48 running on UnAmiga Relaoded FPGA. it was
 ported from zx-uno (https://github.com/Kyp069/lynx).
 
 ## What is working.
