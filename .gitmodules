@@ -1,0 +1,3 @@
+[submodule "syn/UAReloaded/UAReloaded-modules"]
+	path = syn/UAReloaded/UAReloaded-modules
+	url = git@github.com:UnAmigaReloaded-fpga/UAReloaded-modules.git
